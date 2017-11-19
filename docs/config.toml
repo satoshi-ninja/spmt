@@ -1,7 +1,12 @@
 # Main config file for icon theme.
-publishDir = "docs"
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "docs"
+builddrafts = false
+baseUrl = ""
+canonifyurls = true
+author = "satoshi.ninja"
 theme = "hugo-icon"
-baseURL = "https://www.example.com/"
 languageCode = "en-US"
 title = "Secure Pivx Masternode Tool"
 
