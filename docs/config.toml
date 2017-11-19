@@ -2,7 +2,7 @@
 contentdir = "content"
 publishdir = "docs"
 builddrafts = false
-baseUrl = ""
+baseUrl = "https://satoshi-ninja.github.io/spmt/"
 canonifyurls = true
 author = "satoshi.ninja"
 theme = "hugo-icon"
