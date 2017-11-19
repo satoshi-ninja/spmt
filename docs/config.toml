@@ -1,5 +1,4 @@
 # Main config file for icon theme.
-languageCode = "en-us"
 contentdir = "content"
 publishdir = "docs"
 builddrafts = false
