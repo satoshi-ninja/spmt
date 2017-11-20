@@ -19,8 +19,8 @@ publishDir = "docs"
 # Navigation section
 [params.nav]
   mission = "About"
-  services = "Download"
-  team = "The Team"
+  # services = "Download"
+  # team = "The Team"
   # contact = "Get In Touch"
   # Include logo instead if HOME:
   # logo = "path/to/logo"
@@ -64,7 +64,7 @@ publishDir = "docs"
 
 # Services section
 [params.services]
-  enable = true
+  enable = false
   video = true
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "Live Demo"
