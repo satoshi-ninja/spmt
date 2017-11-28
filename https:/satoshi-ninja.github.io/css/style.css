@@ -215,9 +215,8 @@ p {
   display: table-cell;
   width: 100%;
   vertical-align: middle;
-}
-#fh5co-home .fh5co-copy-inner .viola {
-	background: #5c4c7a;
+  background: #5a4a7a;
+  padding: 5%;
 }
 #fh5co-home .fh5co-copy-inner h1, #fh5co-home .fh5co-copy-inner h2 {
   margin: 0;
