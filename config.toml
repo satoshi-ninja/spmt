@@ -13,7 +13,7 @@ publishDir = "docs"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "<img src='https://satoshi-ninja.github.io/spmt/images/spmt-logo.png'/>Secure Pivx Masternode Tool"
+  title = "Secure Pivx Masternode Tool"
   description = "The fun and the convenience of Pivx, <br> the security of your hardware wallet."
 
 # Navigation section
