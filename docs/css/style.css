@@ -70,13 +70,13 @@ p {
   border: 2px solid #69c2c8;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #372F43 !important;
-  border-color: #372F43 !important;
+  background: #56bac1 !important;
+  border-color: #56bac1 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #372F43;
-  border: 2px solid #372F43;
+  color: #69c2c8;
+  border: 2px solid #69c2c8;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
   background: #69c2c8;
@@ -215,7 +215,7 @@ p {
   display: table-cell;
   width: 100%;
   vertical-align: middle;
-  background: rgba(91,75,120,0.5);
+  background: #5a4a7a;
   padding: 5%;
 }
 #fh5co-home .fh5co-copy-inner h1, #fh5co-home .fh5co-copy-inner h2 {
@@ -589,7 +589,7 @@ p {
   line-height: 40px;
 }
 #fh5co-services .fh5co-video a:hover {
-  background: #372F43;
+  background: #57D131;
 }
 #fh5co-services .fh5co-video a:hover, #fh5co-services .fh5co-video a:focus, #fh5co-services .fh5co-video a:active {
   text-decoration: none;
@@ -623,14 +623,14 @@ p {
 }
 #fh5co-services .service .icon i {
   font-size: 40px;
-  color: #372F43;
+  color: #57D131;
 }
 #fh5co-services .service h3 {
   text-align: center;
   font-size: 16px;
   font-weight: 500;
   text-transform: uppercase;
-  color: #6E5A92;
+  color: #368f95;
 }
 #fh5co-services .service:hover, #fh5co-services .service:focus {
   border: 1px solid #e6e6e6;

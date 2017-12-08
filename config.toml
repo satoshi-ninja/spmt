@@ -71,34 +71,49 @@ publishDir = "docs"
   description = "The Secure Pivix Masternode Tool is very easy to use.</p>"
 
   [[params.services.item]]
-    icon = "icon-present"
-    title = "Web Development"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    icon = "icon-gears"
+    title = "Multi-OS"
+    description = "The Python back-end and the QT front-end allow the SPMT to be easily ported across different OS."
 
   [[params.services.item]]
-    icon = "icon-eye"
-    title = "Retina Ready"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    icon = "icon-plug"
+    title = "RPC Independent"
+    description = "Whether you want to use a local or a remote server, SPMT is designed to be RPC server independent."
 
   [[params.services.item]]
-    icon = "icon-paper-plane"
-    title = "Light Speed"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    icon = "icon-unlock2"
+    title = "HW Independent"
+    description = "SPMT is designed to be Hardware Wallet independent; Ledger Wallet is at the moment fully supported."
 
   [[params.services.item]]
-    icon = "icon-pencil"
-    title = "Copyrighting"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    icon = "icon-heartbeat"
+    title = "Connectivity Watchdog"
+    description = "SPMT implements a convenient Connectivity Watchdog for the connection to the RPC server."
 
   [[params.services.item]]
-    icon = "icon-rocket"
-    title = "Load Fast"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    icon = "icon-pied-piper"
+    title = "In-App Reward Management"
+    description = "SPMT implements an In-App Reward Management panel, to safely transfer masternode earnings."
 
   [[params.services.item]]
-    icon = "icon-support"
-    title = "Customer Support"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    icon = "icon-terminal"
+    title = "Debug Console"
+    description = "SPMT integrates a state of the art console with toggable debug and log management functions."
+
+[[params.services.item]]
+    icon = "icon-server2"
+    title = "Masternode Management"
+    description = "SPMT facilitates the management of multiple masternodes at once, as well as the creation of new ones."
+
+    [[params.services.item]]
+    icon = "icon-tachometer"
+    title = "Masternode Monitoring"
+    description = "SPMT allows monitoring several aspects of the masternodes status such as networking & ranking info."
+
+    [[params.services.item]]
+    icon = "icon-github"
+    title = "Open Source"
+    description = "SPMT is 100% free software. If you want to contribute to the source code you can fork us on GitHub!"
 
 # Work section
 [params.work]
